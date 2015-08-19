@@ -12,10 +12,6 @@ class ApplicationController < ActionController::Base
     end
   end
 
-
-  def admin?
-    role == admin
-  end
  
    protected
  
