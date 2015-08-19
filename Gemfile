@@ -48,3 +48,6 @@ group:test do
   gem "selenium-webdriver", "~> 2.39.0"
 end
 
+gem 'devise'
+gem 'activeadmin', github: 'gregbell/active_admin'
+gem 'cancancan'
