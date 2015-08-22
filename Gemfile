@@ -51,3 +51,4 @@ end
 gem 'devise'
 gem 'activeadmin', github: 'gregbell/active_admin'
 gem 'cancancan'
+gem 'devise_invitable'
